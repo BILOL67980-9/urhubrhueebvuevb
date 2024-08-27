@@ -1,6 +1,7 @@
 # Объекты
 
-https://avatars.mds.yandex.net/i?id=0295078a33f5e9d48cdbcde4a6c73b26f19f6565-5364030-images-thumbs&n=13
+![image](https://github.com/user-attachments/assets/a17bedb6-67d1-4ed2-81d7-2eef99ba9d34)
+
 
 + **Как мы знаем из главы Типы данных, в JavaScript существует 8 типов данных. Семь из них называются «примитивными», так как содержат только одно значение (будь то строка, число или что-то другое)**.
 
